@@ -1,0 +1,14 @@
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\bin\Debug\netcoreapp3.1\02_Circular_Double_List.exe
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\bin\Debug\netcoreapp3.1\02_Circular_Double_List.deps.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\bin\Debug\netcoreapp3.1\02_Circular_Double_List.runtimeconfig.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\bin\Debug\netcoreapp3.1\02_Circular_Double_List.runtimeconfig.dev.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\bin\Debug\netcoreapp3.1\02_Circular_Double_List.dll
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\bin\Debug\netcoreapp3.1\02_Circular_Double_List.pdb
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.csprojAssemblyReference.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.AssemblyInfoInputs.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.AssemblyInfo.cs
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.csproj.CoreCompileInputs.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.dll
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.pdb
+C:\Users\joris.sonck\source\repos\Bijles Louis\02_Circular_Double_List\obj\Debug\netcoreapp3.1\02_Circular_Double_List.genruntimeconfig.cache

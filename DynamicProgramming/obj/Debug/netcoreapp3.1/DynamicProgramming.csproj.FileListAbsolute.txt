@@ -1,0 +1,14 @@
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.exe
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.deps.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.dev.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.dll
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.pdb
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csprojAssemblyReference.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfoInputs.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfo.cs
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.dll
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.pdb
+C:\Users\joris.sonck\source\repos\Bijles Louis\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.genruntimeconfig.cache

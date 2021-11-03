@@ -1,0 +1,14 @@
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\bin\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.exe
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\bin\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.deps.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\bin\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.runtimeconfig.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\bin\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.runtimeconfig.dev.json
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\bin\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.dll
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\bin\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.pdb
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.csprojAssemblyReference.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.AssemblyInfoInputs.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.AssemblyInfo.cs
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.csproj.CoreCompileInputs.cache
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.dll
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.pdb
+C:\Users\joris.sonck\source\repos\Bijles Louis\05_Sorted_unique_subsequences\obj\Debug\netcoreapp3.1\05_Sorted_unique_subsequences.genruntimeconfig.cache
